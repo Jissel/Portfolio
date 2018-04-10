@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cbc799d5d0c030f41873f9e525b7fa83
+timeCreated: 1522176448
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - whitePiecePrefab: {fileID: 1784066443409476, guid: 7a3e155456920a345bdb785f31e4bc84,
+      type: 2}
+  - blackPiecePrefab: {fileID: 1390423222631692, guid: b6f7612b878ceb64daf68c8702dcdec9,
+      type: 2}
+  - ColorCell: {instanceID: 0}
+  - rend: {instanceID: 0}
+  - CasillaPrefab: {fileID: 1300834422301284, guid: cfe7ecfaf8c15844991cfc12e11c1d7b,
+      type: 2}
+  - inventoryItem: {fileID: 1906908747901998, guid: 3d5bf6d0a0c77e546aba22d5af18a289,
+      type: 2}
+  executionOrder: 700
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
